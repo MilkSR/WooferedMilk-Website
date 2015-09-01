@@ -20,3 +20,11 @@ To do:
 -Add about page probably.
 -Add my twitter and Milks twitter to the page.
 
+Development pictures :3
+
+![alt tag](http://i.imgur.com/InDTmKG.png)
+![alt tag](http://i.imgur.com/QlOkMhn.png)
+![alt tag](http://i.imgur.com/iXmoR57.png)
+![alt tag](http://i.imgur.com/Kttvy09.png)
+![alt tag](http://i.imgur.com/K88MClV.png)
+![alt tag](http://i.imgur.com/0nHhr3W.png)
